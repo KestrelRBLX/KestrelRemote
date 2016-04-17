@@ -1,6 +1,6 @@
 /* General CSS code - applies to all pages */
 
-input {
+input, select {
   outline: none;
 }
 
