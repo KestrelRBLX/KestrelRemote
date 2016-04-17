@@ -1,1 +1,53 @@
 /* General CSS code - applies to all pages */
+
+input[type="submit"] {
+  width: 90px;
+  height: 30px;
+  color: white;
+  background: rgba(63, 191, 76, 0.9);
+  font-size: 15px;  
+  font-family: Slim Joe;
+  border: 0px;
+  border-radius: 5px;
+  text-align: center;
+}
+
+input[type="password"] {
+  color: black;
+  height: 30px;
+  width: 270px;
+  background: white;
+  font-size: 15px;
+  font-family: Century Gothic;
+  border: 0px;
+  border-radius: 5px;
+  text-align: center;
+  }
+
+input[type="text"] {
+  color: black;
+  height: 30px;
+  width: 270px;
+  background: white;
+  font-size: 15px;
+  font-family: Century Gothic;
+  border: 0px;
+  border-radius: 5px;
+  text-align: center;
+  }
+  
+  ::-webkit-input-placeholder {
+   text-align: center;
+}
+
+:-moz-placeholder { /* Firefox 18- */
+   text-align: center;
+}
+
+::-moz-placeholder {  /* Firefox 19+ */
+   text-align: center;
+}
+
+:-ms-input-placeholder {  
+   text-align: center;  
+}
