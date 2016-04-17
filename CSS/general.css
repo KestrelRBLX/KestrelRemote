@@ -60,3 +60,16 @@ input[type="text"] {
 :-ms-input-placeholder {  
    text-align: center;  
 }
+
+body {
+	font-family: Arial;
+}
+
+.h1 {
+  color: #2D353C;
+}
+
+.hr-black {
+	color: black;
+	background-color: black;
+}
