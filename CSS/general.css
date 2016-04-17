@@ -6,8 +6,8 @@ input[type="submit"] {
   color: white;
   background: rgba(63, 191, 76, 0.9);
   font-size: 15px;  
-  font-family: Slim Joe;
-  border: 0px;
+  font-family: "Slim Joe", Arial;
+  border: 3px solid black;
   border-radius: 5px;
   text-align: center;
 }
@@ -18,8 +18,8 @@ input[type="password"] {
   width: 270px;
   background: white;
   font-size: 15px;
-  font-family: Century Gothic;
-  border: 0px;
+  font-family: "Century Gothic", Arial;
+  border: 3px solid black;
   border-radius: 5px;
   text-align: center;
   }
@@ -30,8 +30,8 @@ input[type="text"] {
   width: 270px;
   background: white;
   font-size: 15px;
-  font-family: Century Gothic;
-  border: 0px;
+  font-family: "Century Gothic", Arial;
+  border: 3px solid black;
   border-radius: 5px;
   text-align: center;
   }
