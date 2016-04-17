@@ -17,6 +17,10 @@ input[type="submit"] {
   cursor: pointer;
 }
 
+input[type="submit"]:hover {
+  background: rgba(0, 191, 76, 0.9);
+}
+
 input[type="password"] {
   color: black;
   height: 30px;
