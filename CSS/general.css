@@ -1,5 +1,9 @@
 /* General CSS code - applies to all pages */
 
+input {
+  outline: none;
+}
+
 input[type="submit"] {
   width: 90px;
   height: 30px;
