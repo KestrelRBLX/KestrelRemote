@@ -74,3 +74,9 @@ body {
 	background-color: black;
 	border-color: black;
 }
+
+a {
+	color: inherit;
+	font-weight: bold;
+	text-decoration: none;
+}
