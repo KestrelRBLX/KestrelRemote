@@ -4,7 +4,7 @@ input, select {
   outline: none;
 }
 
-input[type="submit"] {
+input[type="submit"], button {
   width: 90px;
   height: 30px;
   color: white;
