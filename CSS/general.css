@@ -77,8 +77,11 @@ body {
 
 a {
 	color: inherit;
-	font-weight: bold;
 	text-decoration: none;
+}
+
+a:not(.dont-bold) {
+	font-weight: bold;
 }
 
 a:hover {
