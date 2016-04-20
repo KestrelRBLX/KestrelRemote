@@ -84,3 +84,8 @@ a {
 a:hover {
 	color: blue;
 }
+
+table {
+	text-align: center;
+}
+}
