@@ -5,7 +5,7 @@ input, select, button {
 }
 
 input[type="submit"], button {
-  width: 90px;
+  /*width: 90px;*/ padding: 10px;
   height: 30px;
   color: white;
   background: rgba(63, 191, 76, 0.9);
