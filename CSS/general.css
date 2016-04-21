@@ -105,13 +105,44 @@ table {
 }
 }
 
-.rank-tag {
+.rank-tag-orange {
 	color:black;
 	padding:5px;
 	border-radius:5px;
 	border:1px solid black;
 	font-weight:bold;
+	background-color: orange;
 }
+
+.rank-tag-green {
+	color:white;
+	padding:5px;
+	border-radius:5px;
+	border:1px solid black;
+	font-weight:bold;
+	background-color: green;
+}
+
+.rank-tag-blue {
+	color:white;
+	padding:5px;
+	border-radius:5px;
+	border:1px solid black;
+	font-weight:bold;
+	background-color: blue;
+}
+
+.rank-tag-purple {
+	color:white;
+	padding:5px;
+	border-radius:5px;
+	border:1px solid black;
+	font-weight:bold;
+	background-color: purple;
+}
+
+
+
 
 .bg-orange {
 	background-color: orange;
