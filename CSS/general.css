@@ -43,7 +43,19 @@ input, select {
   border: 3px solid black;
   border-radius: 5px;
   text-align: center;
-  }
+ }
+ 
+textarea {
+  color: black;
+  height: 100px;
+  width: 270px;
+  background: white;
+  font-size: 15px;
+  font-family: "Century Gothic", Arial;
+  border: 3px solid black;
+  border-radius: 5px;
+  text-align: center;
+ }
   
   ::-webkit-input-placeholder {
    text-align: center;
