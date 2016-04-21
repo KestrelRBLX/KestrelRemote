@@ -104,3 +104,30 @@ table {
 	text-align: center;
 }
 }
+
+.rank-tag {
+	color:black;
+	padding:5px;
+	border-radius:5px;
+	border:1px solid black;
+	font-weight:bold;
+}
+
+.bg-orange {
+	background-color: orange;
+}
+
+.bg-green {
+	background-color: green;
+}
+
+.bg-blue {
+	background-color: blue;
+}
+
+.bg-purple {
+	background-color: purple;
+}
+
+
+
