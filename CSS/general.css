@@ -1,6 +1,6 @@
 /* General CSS code - applies to all pages */
 
-input, select, button {
+input, select, button, textarea, * {
   outline: none;
 }
 
