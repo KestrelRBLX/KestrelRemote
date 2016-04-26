@@ -33,7 +33,7 @@ input[type="password"] {
   text-align: center;
   }
 
-input:not([type="checkbox"]), select {
+input:not([type="checkbox"]):not([type="submit"]), select {
   color: black;
   height: 30px;
   width: 270px;
