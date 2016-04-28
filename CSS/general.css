@@ -174,10 +174,6 @@ margin-top: 5px;
 margin-bottom: 5px;
 }
 
-body {
-	background-color: white;
-}
-
 .header {
     background-color: #464646;
     color: white !important;
@@ -194,6 +190,8 @@ body {
 
 body {
     margin: 0px;
+    background-color: white;
+    color: black;
 }
 
 .content {
