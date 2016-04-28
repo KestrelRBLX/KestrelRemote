@@ -87,16 +87,16 @@ body {
 	border-color: black;
 }
 
-a {
+a:not(.nostyle) {
 	color: inherit;
 	text-decoration: none;
 }
 
-a:not(.dont-bold) {
+a:not(.nostyle):not(.dont-bold) {
 	font-weight: bold;
 }
 
-a:hover {
+a:not(.nostyle):hover {
 	color: blue;
 }
 
