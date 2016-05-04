@@ -21,6 +21,11 @@ input[type="submit"]:hover, button:not(.nostyle):hover {
   background: rgba(0, 191, 76, 0.9);
 }
 
+input[type="submit"].disabled, button:not(.nostyle).disabled {
+  background-color: darkgrey;
+  cursor: inherit;
+}
+
 input[type="password"] {
   color: black;
   height: 30px;
