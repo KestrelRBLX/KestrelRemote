@@ -5,7 +5,8 @@ input, select, button, textarea, * {
 }
 
 input[type="submit"], button:not(.nostyle) {
-  width: 130px;
+  min-width: 130px;
+  width: auto;
   height: 30px;
   color: white;
   background: rgba(63, 191, 76, 0.9);
@@ -29,7 +30,8 @@ input[type="submit"].disabled, button:not(.nostyle).disabled {
 input[type="password"] {
   color: black;
   height: 30px;
-  width: 270px;
+  min-width: 270px;
+  width: auto;
   background: white;
   font-size: 15px;
   font-family: "Century Gothic", Arial;
@@ -41,7 +43,8 @@ input[type="password"] {
 input:not([type="checkbox"]):not([type="radio"]):not([type="submit"]), select {
   color: black;
   height: 30px;
-  width: 270px;
+  min-width: 270px;
+  width: auto;
   background: white;
   font-size: 15px;
   font-family: "Century Gothic", Arial;
